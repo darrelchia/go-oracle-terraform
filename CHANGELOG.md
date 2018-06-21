@@ -1,4 +1,28 @@
-## 0.9.3 (Unreleased)
+## 0.9.7 (June 19,2019)
+
+* mysql: Add omitempty to Notification Email [GH-150]
+
+## 0.9.6 (June 19, 2018)
+
+* mysql: Adding Notification Email to list of attributes specified when creating a service instance [GH-149]
+
+## 0.9.5 (June 12, 2018)
+
+* java: Access Rules wait for Instance State [GH-148]
+
+## 0.9.4 (June 12, 2018)
+
+* java: Assign public ip to service instance [GH-145]
+
+* java: Set service instance desired state [GH-146]
+
+* java: Check for desired state when deleting access rules [GH-147]
+
+## 0.9.3 (May 23, 2018)
+
+* java: Scale up/down shape for java service instance [GH-142]
+
+* java: Remove Middleware Version constants to allow users to specify new versions as they come out [GH-144]
 
 ## 0.9.2 (April 24, 2018)
 
